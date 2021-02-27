@@ -59,7 +59,7 @@ The following expression would evaluate to `89`
 fib 10
 ```
 
-Let's evaluate a *chained* function application.
+Let's evaluate a *chained* function application using our previously derived equivalent expression for `fib 3`.
 
 ```haskell
 fib (fib (fib 3))
