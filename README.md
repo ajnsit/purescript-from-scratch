@@ -25,3 +25,5 @@ This is my attempt to provide such a resource for Purescript.
 # Work in Progress
 
 Ongoing work in progress sections are in /sections. Currently they are just notes and scribblings off the top of my head as I think of things to write about. They need massive reorganisation and fleshing out.
+
+Sections which have crossed a threshold of a certain level of completeness, and are deemed somewhat readable and useful, will be linked here from the README.
