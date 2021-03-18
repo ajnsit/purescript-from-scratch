@@ -21,3 +21,7 @@ This can be an insurmountable barrier for many people, despite many excellent re
 3. Let people tinker with the examples and see the results
 
 This is my attempt to provide such a resource for Purescript.
+
+# Work in Progress
+
+Ongoing work in progress sections are in /sections. Currently they are just notes and scribblings off the top of my head as I think of things to write about. They need massive reorganisation and fleshing out.
